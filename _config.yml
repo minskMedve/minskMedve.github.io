@@ -1,8 +1,3 @@
-plugins:
-  - jekyll-remote-theme
-
-remote_theme: poole/hyde
-
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
@@ -12,19 +7,14 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Minsuk's Home
-tagline:          'A Jekyll theme'
+title:            Minsuk Kang
+tagline:          'blog'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              'https://minskmedve.github.io/'
-baseurl:          ''
+url:              https://minskmedve.github.io
+baseurl:          /
 
 author:
-  name:           'Minsuk Kang'
+  name:           'Mark Otto'
   url:            https://www.instagram.com/ms27.kang/
 
 paginate:         5
-
-exclude:
-  - README.md
-  - LICENSE
-  - .gitignore

@@ -1,5 +1,13 @@
-# Minsuk Kang
-For my hobbies including linguistics, conlangs and trips, and many other things :)
+---
+layout: page
+title: About
+---
+
+# About Me
+
+# About This Page
+
+This web page is for my hobbies including linguistics, conlangs and trips, and many other things :)
 
 ## Hobbies
 
