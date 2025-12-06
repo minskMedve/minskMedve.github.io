@@ -9,6 +9,18 @@ title: About
 - B.S. in Computer Science and Engineering. Yonsei University.
 - Interested in `operating system`, `security`, `compiler`, `language`, etc. ❤️
 
+### A Paper I'm Involved in!
+- [ReUSB: Replay-Guided USB Driver Fuzzing](https://www.usenix.org/system/files/usenixsecurity23-jang.pdf)
+
+### My Commits to the Mainline Linux Kernel!
+- [wifi: ath9k: Fix potential array-index-out-of-bounds read in ath9k_htc_txstatus()](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=2adc886244dff60f948497b59affb6c6ebb3c348)
+- [wifi: ath9k: Fix potential stack-out-of-bounds write in ath9k_wmi_rsp_callback()](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8a2f35b9830692f7a616f2f627f943bc748af13a)
+- [nfc: pn533: Wait for out_urb's completion in pn533_usb_send_frame()](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=9dab880d675b9d0dd56c6428e4e8352a3339371d)
+- [nfc: pn533: Clear nfc_target before being used](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=9f28157778ede0d4f183f7ab3b46995bb400abbe)
+- [wifi: ath9k: Fix use-after-free in ath9k_hif_usb_disconnect()](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f099c5c9e2ba08a379bd354a82e05ef839ae29ac)
+- [wifi: brcmfmac: Check the count value of channel spec to prevent out-of-bounds reads](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=4920ab131b2dbae7464b72bdcac465d070254209)
+- [wifi: brcmfmac: Fix potential shift-out-of-bounds in brcmf_fw_alloc_request()](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=81d17f6f3331f03c8eafdacea68ab773426c1e3c)
+
 ## This Page
 
 This web page is for my hobbies including linguistics, conlangs and trips, and many other things :)
