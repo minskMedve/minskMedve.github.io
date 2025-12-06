@@ -10,7 +10,7 @@ title: About
 - Interested in `operating system`, `security`, `compiler`, `language`, etc.
 
 ### Papers I'm Involved in!
-- USB 드라이버 퍼징을 위한 장치 프로토콜 규격의 자동 생성 (CISC-W’24)
+- Automated Generation of Device Protocol Specification for USB Driver Fuzzing (CISC-W’24)
 - [ReUSB: Replay-Guided USB Driver Fuzzing (USENIX Security ’23)](https://www.usenix.org/system/files/usenixsecurity23-jang.pdf)
 
 ### My Commits to the Mainline Linux Kernel!
