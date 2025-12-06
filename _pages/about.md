@@ -31,11 +31,11 @@ This website is for my hobbies including trips, linguistics and conlangs, and ma
 
 ### Linguistics
 - Agglutinative features of languages and Morphophonology are my favourite!
-- Currently being interested in Slavic languages including Slovak and Interslavic (Medžuslovjansky).
+- Currently being interested in Slavic languages including Slovak and Interslavic (<lat>Medžuslovjansky</lat>).
 
 ### Conlang & Conorthography
 - Primarily conlangs and conorthographies based on Korean, my mother tongue.
 - Techian (Taechader)
-- Pseudoclassical Korean (의ᄉᆞ 고뎐 한국어)
+- Pseudoclassical Korean (<cjk>의ᄉᆞ 고뎐 한국어</cjk>)
 - Modern Idu (現代吏讀)
 - and many other conorthographies...

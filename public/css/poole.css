@@ -428,3 +428,12 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+/* Custom font tag */
+lat {
+  font-family: Urbanist, Helvetica, Arial, sans-serif;
+}
+
+cjk {
+  font-family: "Noto Sans KR";
+}
