@@ -24,9 +24,9 @@ title: About
 
 ## MS Karhu
 
-This website is for my hobbies including trips, linguistics and conlangs, and many other things :)
+This website is for my hobbies including travel, linguistics and conlangs, and many other things :)
 
-### Trips
+### Travel
 - Visited 🇹🇼 🇸🇬 🇲🇾 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇫🇷 🇨🇭 🇮🇹 🇨🇿 🇸🇰 🇦🇹 🇭🇷 🇧🇦 🇭🇺 🇷🇺 🇪🇪 🇫🇮 🇺🇸 🇭🇰 🇲🇴 🇨🇳 🇯🇵
 
 ### Linguistics
