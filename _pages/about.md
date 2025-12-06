@@ -36,6 +36,6 @@ This website is for my hobbies including trips, linguistics and conlangs, and ma
 ### Conlang & Conorthography
 - Primarily conlangs and conorthographies based on Korean, my mother tongue.
 - Techian (Taechader)
-- Pseudoclassical Korean (의ᄉᆞ 고뎐 한국어)
+- Pseudoclassical Korean
 - Modern Idu (現代吏讀)
 - and many other conorthographies...
