@@ -32,6 +32,8 @@ This website is for my hobbies including trips, linguistics and conlangs, and ma
 ### Linguistics
 - Agglutinative features of languages and Morphophonology are my favourite!
 - Currently being interested in Slavic languages including Slovak and Interslavic (Medžuslovjansky).
+- Ergative–absolutive alignment and the antipassive voice sound cool.
+- Maybe the history of Koreanic languages...?
 
 ### Conlang & Conorthography
 - Primarily conlangs and conorthographies based on Korean, my mother tongue.
