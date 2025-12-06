@@ -7,7 +7,7 @@ title: About
 - Associate Programmer in LG Electronics
 - M.S. in Computer Science and Engineering. Yonsei University.
 - B.S. in Computer Science and Engineering. Yonsei University.
-- Interested in `system`, `security`, etc. ❤️
+- Interested in `operating system`, `security`, `compiler`, `language`, etc. ❤️
 
 ## This Page
 
