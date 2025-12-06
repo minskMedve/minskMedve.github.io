@@ -20,10 +20,15 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/hyde.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
   
-  <!-- Noto Sans KR -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap" rel="stylesheet">
+  <!-- Noto Sans KR (Local) -->
+  <style>
+    @font-face {
+      font-family: "Noto Sans KR";
+      src: url("{{ site.baseurl }}/public/fonts/NotoSansCJKkr-VF.otf") format("opentype");
+      font-weight: 100 900;
+      font-style: normal;
+    }
+  </style>
   
   <!-- SUIT Font -->
   <link href="https://cdn.jsdelivr.net/gh/sun-typeface/SUIT@2/fonts/static/woff2/SUIT.css" rel="stylesheet">
