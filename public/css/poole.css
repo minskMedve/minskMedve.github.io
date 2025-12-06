@@ -431,13 +431,7 @@ a.pagination-item:hover {
 
 /* Custom font tag */
 lat {
-  font-family: "League Spartan", Helvetica, Arial, sans-serif;
-  font-weight: 300;
-}
-
-lat strong,
-lat b {
-  font-weight: 500;
+  font-family: "Inclusive Sans", Helvetica, Arial, sans-serif;
 }
 
 cjk {
