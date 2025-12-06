@@ -3,13 +3,15 @@ layout: page
 title: About
 ---
 
-# About Me
+## Minsuk Kang (Korean: 강민석, Hanja: 康珉碩)
+- Associate Programmer in LG Electronics
+- M.S. in Computer Science and Engineering. Yonsei University.
+- B.S. in Computer Science and Engineering. Yonsei University.
+- Interested in `system`, `security`, etc. ❤️
 
-# About This Page
+## About This Page
 
 This web page is for my hobbies including linguistics, conlangs and trips, and many other things :)
-
-## Hobbies
 
 ### Trips
 
