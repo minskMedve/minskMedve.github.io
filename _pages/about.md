@@ -3,11 +3,11 @@ layout: page
 title: About
 ---
 
-## Minsuk Kang (강민석, 康珉碩)
-- Associate Programmer in LG Electronics
+## 강민석 (Minsuk Kang)
+- Associate Programmer in LG Electronics.
 - M.S. in Computer Science and Engineering. Yonsei University.
 - B.S. in Computer Science and Engineering. Yonsei University.
-- Interested in `operating system`, `security`, `compiler`, `language`, etc. ❤️
+- Interested in `operating system`, `security`, `compiler`, `language`, etc.
 
 ### Papers I'm Involved in!
 - USB 드라이버 퍼징을 위한 장치 프로토콜 규격의 자동 생성 (CISC-W’24)
