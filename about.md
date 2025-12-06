@@ -21,9 +21,9 @@ title: About
 - [wifi: brcmfmac: Check the count value of channel spec to prevent out-of-bounds reads](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=4920ab131b2dbae7464b72bdcac465d070254209)
 - [wifi: brcmfmac: Fix potential shift-out-of-bounds in brcmf_fw_alloc_request()](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=81d17f6f3331f03c8eafdacea68ab773426c1e3c)
 
-## This Page
+## MS Karhu
 
-This web page is for my hobbies including linguistics, conlangs and trips, and many other things :)
+This website is for my hobbies including linguistics, conlangs and trips, and many other things :)
 
 ### Trips
 - Visited 🇹🇼 🇸🇬 🇲🇾 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇫🇷 🇨🇭 🇮🇹 🇨🇿 🇸🇰 🇦🇹 🇭🇷 🇧🇦 🇭🇺 🇷🇺 🇪🇪 🇫🇮 🇭🇰 🇲🇴 🇨🇳 🇯🇵
