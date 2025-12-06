@@ -13,7 +13,7 @@ title: About
 - Automated Generation of Device Protocol Specification for USB Driver Fuzzing (CISC-W’24)
 - [ReUSB: Replay-Guided USB Driver Fuzzing (USENIX Security ’23)](https://www.usenix.org/system/files/usenixsecurity23-jang.pdf)
 
-### My Commits to the Mainline Linux Kernel!
+### Contributing to the Mainline Linux Kernel!
 - [wifi: ath9k: Fix potential array-index-out-of-bounds read in ath9k_htc_txstatus()](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=2adc886244dff60f948497b59affb6c6ebb3c348)
 - [wifi: ath9k: Fix potential stack-out-of-bounds write in ath9k_wmi_rsp_callback()](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8a2f35b9830692f7a616f2f627f943bc748af13a)
 - [nfc: pn533: Wait for out_urb's completion in pn533_usb_send_frame()](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=9dab880d675b9d0dd56c6428e4e8352a3339371d)
