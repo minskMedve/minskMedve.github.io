@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-## Minsuk Kang (강민석, 康珉碩)
+## 강민석 (康珉碩, Minsuk Kang)
 - Associate Programmer in LG Electronics
 - M.S. in Computer Science and Engineering. Yonsei University.
 - B.S. in Computer Science and Engineering. Yonsei University.
