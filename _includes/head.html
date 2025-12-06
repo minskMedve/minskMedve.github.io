@@ -40,4 +40,24 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+  
+  <script>
+    // Adjust font size based on loaded font
+    if (document.fonts) {
+      document.fonts.ready.then(() => {
+        const html = document.documentElement;
+        const computedFont = window.getComputedStyle(html).fontFamily;
+        
+        if (computedFont.includes('Chiron GoRound TC')) {
+          // Chiron GoRound TC is loaded, apply 0.9 adjustment
+          html.style.fontSize = 'calc(16px * 0.9)';
+          const mediaQueryList = window.matchMedia('(min-width: 38em)');
+          if (mediaQueryList.matches) {
+            html.style.fontSize = 'calc(20px * 0.9)';
+          }
+        }
+        // If Glory is loaded, keep default size
+      });
+    }
+  </script>
 </head>
