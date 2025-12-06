@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-## Minsuk Kang <cjk>(강민석, 康珉碩)</cjk>
+## Minsuk Kang (강민석, 康珉碩)
 - Associate Programmer in LG Electronics
 - M.S. in Computer Science and Engineering. Yonsei University.
 - B.S. in Computer Science and Engineering. Yonsei University.
@@ -36,6 +36,6 @@ This website is for my hobbies including trips, linguistics and conlangs, and ma
 ### Conlang & Conorthography
 - Primarily conlangs and conorthographies based on Korean, my mother tongue.
 - Techian (Taechader)
-- Pseudoclassical Korean (<cjk>의ᄉᆞ 고뎐 한국어</cjk>)
+- Pseudoclassical Korean (의ᄉᆞ 고뎐 한국어)
 - Modern Idu (現代吏讀)
 - and many other conorthographies...
