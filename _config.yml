@@ -23,3 +23,8 @@ plugins:
 
 include:
   - _pages
+
+collections:
+  pages:
+    output: true
+    permalink: /:name/
