@@ -10,8 +10,8 @@ title: About
 - Interested in `operating system`, `security`, `compiler`, `language`, etc. ❤️
 
 ### Papers I'm Involved in!
-- USB 드라이버 퍼징을 위한 장치 프로토콜 규격의 자동 생성 (CISC-W'24)
-- [ReUSB: Replay-Guided USB Driver Fuzzing (USENIX Security '23)](https://www.usenix.org/system/files/usenixsecurity23-jang.pdf)
+- USB 드라이버 퍼징을 위한 장치 프로토콜 규격의 자동 생성 (CISC-W’24)
+- [ReUSB: Replay-Guided USB Driver Fuzzing (USENIX Security ’23)](https://www.usenix.org/system/files/usenixsecurity23-jang.pdf)
 
 ### My Commits to the Mainline Linux Kernel!
 - [wifi: ath9k: Fix potential array-index-out-of-bounds read in ath9k_htc_txstatus()](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=2adc886244dff60f948497b59affb6c6ebb3c348)
@@ -30,8 +30,11 @@ This website is for my hobbies including trips, linguistics and conlangs, and ma
 - Visited 🇹🇼 🇸🇬 🇲🇾 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇫🇷 🇨🇭 🇮🇹 🇨🇿 🇸🇰 🇦🇹 🇭🇷 🇧🇦 🇭🇺 🇷🇺 🇪🇪 🇫🇮 🇭🇰 🇲🇴 🇨🇳 🇯🇵
 
 ### Linguistics
+- Agglutinative features of languages and Morphophonology are my favourite!
+- Currently being interested in Slavic languages including Slovak and Interslavic (Medžuslovjansky).
 
-### Conlang
+### Conlang & Conorthography
+- Primarily conlangs and conorthographies based on Korean, my mother tongue.
 - Techian (Taechader)
 - Pseudoclassical Korean (의ᄉᆞ 고뎐 한국어)
 - Modern Idu (現代吏讀)
