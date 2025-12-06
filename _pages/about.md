@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-## 강민석 (康珉碩, Minsuk Kang)
+## Minsuk Kang <cjk>(강민석, 康珉碩)</cjk>
 - Associate Programmer in LG Electronics
 - M.S. in Computer Science and Engineering. Yonsei University.
 - B.S. in Computer Science and Engineering. Yonsei University.
@@ -31,7 +31,7 @@ This website is for my hobbies including trips, linguistics and conlangs, and ma
 
 ### Linguistics
 - Agglutinative features of languages and Morphophonology are my favourite!
-- Currently being interested in Slavic languages including Slovak and Interslavic (<lat>Medžuslovjansky</lat>).
+- Currently being interested in Slavic languages including Slovak and Interslavic (Medžuslovjansky).
 
 ### Conlang & Conorthography
 - Primarily conlangs and conorthographies based on Korean, my mother tongue.

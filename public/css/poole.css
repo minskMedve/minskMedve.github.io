@@ -48,7 +48,7 @@ body {
 }
 
 html {
-  font-family: "SUIT", "Noto Sans KR", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Glory, "Noto Sans KR", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -389,7 +389,7 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "SUIT", "Noto Sans KR", "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: Glory, "Noto Sans KR", "PT Sans", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
 }
@@ -430,10 +430,6 @@ a.pagination-item:hover {
 }
 
 /* Custom font tag */
-lat {
-  font-family: "Inclusive Sans", Helvetica, Arial, sans-serif;
-}
-
 cjk {
   font-family: "Noto Sans KR";
 }
