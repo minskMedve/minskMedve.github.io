@@ -9,8 +9,9 @@ title: About
 - B.S. in Computer Science and Engineering. Yonsei University.
 - Interested in `operating system`, `security`, `compiler`, `language`, etc. ❤️
 
-### A Paper I'm Involved in!
-- [ReUSB: Replay-Guided USB Driver Fuzzing](https://www.usenix.org/system/files/usenixsecurity23-jang.pdf)
+### Papers I'm Involved in!
+- USB 드라이버 퍼징을 위한 장치 프로토콜 규격의 자동 생성 (CISC-W'24)
+- [ReUSB: Replay-Guided USB Driver Fuzzing (USENIX Security '23)](https://www.usenix.org/system/files/usenixsecurity23-jang.pdf)
 
 ### My Commits to the Mainline Linux Kernel!
 - [wifi: ath9k: Fix potential array-index-out-of-bounds read in ath9k_htc_txstatus()](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=2adc886244dff60f948497b59affb6c6ebb3c348)
